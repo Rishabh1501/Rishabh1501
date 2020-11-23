@@ -2,7 +2,7 @@
 
 #### My name is Rishabh Kalra
 
-***Some Information about me 😁 ***
+***Some Information about me 😁***
 
 - 🔭 I’m currently a Student of Engineering , 3rd Year, Computer Science Department.
 - 🌱 I’m currently learning Python.
