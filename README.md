@@ -51,7 +51,7 @@
 </br>
 
 <h3>Resume</h3>
-<p>🎈 <a href="https://drive.google.com/file/d/1upYvbtb4Ip4eLqGSdaBSF5gtCzf7ELzZ/view?usp=sharing" target="_blank">My Resume</a> </p>
+<p>🎈 <a href="https://drive.google.com/file/d/1AkVAaHya2ZfSDxU82-P8OPHSG6WSYxho/view?usp=sharing" target="_blank">My Resume</a> </p>
 <br>
 
 <h3>📫 How to reach me</h3> 
